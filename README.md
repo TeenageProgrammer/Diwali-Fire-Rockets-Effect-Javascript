@@ -4,9 +4,9 @@
 Created a unique and glowing Javascript Project of Fire Rockets Effect using HTML5 Canvas. These Rockets are generated randomly and have random glowing color, get burst when reached a point and explodes sparkling particles.
 Do Watch the video tutorial of this Project to get the concept.
 
-[🔴 Youtube Tutorial Video](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+[🔴 Youtube Tutorial Video](https://youtu.be/YGpzeUUuvKE)
 
-[🔵 Live Project URL](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+[🔵 Live Project URL](https://teenageprogrammer.github.io/Diwali-Fire-Rockets-Effect-Javascript/)
 
 
 
